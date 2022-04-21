@@ -8,7 +8,8 @@
   <img src="/img/Florida.png" width="500" /> 
 </p>
 <p>Majority of the Tweets in washington are coming out of the Seattle Area. I feel like since we're a technological city we are bound to have a lot of people using twitter. In Florida, I was suprise to see only a few tweets coming out of miami since It's a major city in the United States like Seattle but more tweeters are from Tampa and Orlando. From the map We can conlude that many tweeters are tweeting from well-known techonology city compare to other cities and county.</p>
-## Word Cloud
+
+### Word Cloud
 <p float="left">
   <img src="/img/WashingtonWordCloud.png" width="500" />
   <img src="/img/FloridaWordCloud.png" width="500" /> 
